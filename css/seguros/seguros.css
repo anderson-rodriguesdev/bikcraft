@@ -57,7 +57,6 @@
 
 .seguros-item a {
   grid-column: 1/-1;
-  width: max-content;
 }
 
 @media (max-width: 860px) {
